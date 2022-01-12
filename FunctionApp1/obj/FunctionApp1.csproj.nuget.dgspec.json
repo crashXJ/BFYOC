@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ksivanandam\\Learning\\Azure\\OpenHack\\BFYOC\\FunctionApp1\\FunctionApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ksivanandam\\Learning\\Azure\\OpenHack\\BFYOC\\FunctionApp1\\FunctionApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ksivanandam\\Learning\\Azure\\OpenHack\\BFYOC\\FunctionApp1\\FunctionApp1.csproj",
+        "projectName": "FunctionApp1",
+        "projectPath": "C:\\Users\\ksivanandam\\Learning\\Azure\\OpenHack\\BFYOC\\FunctionApp1\\FunctionApp1.csproj",
+        "packagesPath": "C:\\Users\\ksivanandam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ksivanandam\\Learning\\Azure\\OpenHack\\BFYOC\\FunctionApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ksivanandam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[3.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
